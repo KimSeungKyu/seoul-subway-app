@@ -1,0 +1,142 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "niss",
+    "longName": "Seoul Subway",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/line_1077.png",
+                "name": "IMAGES_LINE_1077_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1075.png",
+                "name": "IMAGES_LINE_1075_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1071.png",
+                "name": "IMAGES_LINE_1071_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1069.png",
+                "name": "IMAGES_LINE_1069_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1067.png",
+                "name": "IMAGES_LINE_1067_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1065.png",
+                "name": "IMAGES_LINE_1065_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1063.png",
+                "name": "IMAGES_LINE_1063_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1009.png",
+                "name": "IMAGES_LINE_1009_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1008.png",
+                "name": "IMAGES_LINE_1008_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1007.png",
+                "name": "IMAGES_LINE_1007_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1006.png",
+                "name": "IMAGES_LINE_1006_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1005.png",
+                "name": "IMAGES_LINE_1005_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1004.png",
+                "name": "IMAGES_LINE_1004_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1003.png",
+                "name": "IMAGES_LINE_1003_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1002.png",
+                "name": "IMAGES_LINE_1002_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_1001.png",
+                "name": "IMAGES_LINE_1001_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/line_graphic.png",
+                "name": "IMAGES_LINE_GRAPHIC_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_MENU_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/train.png",
+                "name": "IMAGES_TRAIN_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SeoulSubway",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "46fe47e3-18da-4b9f-a9de-b55d34e59a8b",
+    "versionCode": 1,
+    "versionLabel": "1.4",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
